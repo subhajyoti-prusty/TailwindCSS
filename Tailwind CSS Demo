@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+            <!-- Tailwind -->
+    <title>Tailwind CSS Demo</title>
+</head>
+<body>
+    <h1 class="underline ml-4">Hello World!</h1>
+    <h2>h2 - Demo of text</h2>
+    <h3>h3 - Demo of text</h3>
+    <p class="text-red-500">This is a Tailwind CSS Demo</p>
+
+</body>
+</html>
